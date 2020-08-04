@@ -1,3 +1,3 @@
-# Deploy Flask API to Heroku
+# Deploy Flask API
 
-Toy project with Flask API deploy to Heroku.
+Toy project with Flask.
